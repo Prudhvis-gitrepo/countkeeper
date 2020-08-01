@@ -1,0 +1,5 @@
+<ul>
+  <li><a href="homepage.php">Home</a></li>
+  <li><a href="add_topics.php">Add topics</a></li>
+  <li style="float:right"><a class="active" href="logout.php">Logout</a></li>
+</ul>

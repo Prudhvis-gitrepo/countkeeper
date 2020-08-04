@@ -2,4 +2,5 @@
   <li><a href="homepage.php">Home</a></li>
   <li><a href="add_topics.php">Add topics</a></li>
   <li style="float:right"><a class="active" href="logout.php">Logout</a></li>
+  <li style="float:right"><a class="material-icons" style="font-size:100%" href="profile.php">account_box</i></li>
 </ul>

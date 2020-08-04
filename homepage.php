@@ -12,7 +12,7 @@
 	$query="SELECT * from topics";
 	$result=mysqli_query($con,$query);
 
-	echo '<table width="100%" id="mytable"><thead><tr>
+	echo '<br><table width="100%" id="mytable"><thead><tr>
 		<th>No</th>
 		<th>Topics</th>
 		<th>Solved Count</th>
